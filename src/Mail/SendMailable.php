@@ -34,6 +34,6 @@ class SendMailable extends Mailable
     {
         $name = $this->name;
         $message = $this->message;
-        return $this->markdown('c3mail::sendMail', compact('name', 'message'));
+        return $this->markdown('c3mail::mails.sendMail', compact('name', 'message'));
     }
 }

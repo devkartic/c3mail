@@ -14,5 +14,12 @@
         "psr-4": {
             "Crazycoderscafe\\C3mail\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Crazycoderscafe\\C3mail\\SendMailServiceProvider"
+            ]
+        }
     }
 }

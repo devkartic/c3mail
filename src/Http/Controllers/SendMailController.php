@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Mail;
 class SendMailController extends Controller
 {
     public function index(){
-        return view('c3mail::create');
+        return view('c3mail::mails.create');
     }
 
     public function send(Request $request){

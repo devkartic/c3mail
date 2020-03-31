@@ -15,6 +15,7 @@ class SendMailServiceProvider extends ServiceProvider{
         );
         $this->publishes([
             __DIR__.'/config/c3mail.php' => config_path('c3mail.php'),
+            __DIR__.'/views' => resource_path('views/vendor/c3mail'),
         ]);
     }
 
