@@ -17,10 +17,15 @@ composer update
 #### step 2 : Mail configuration
 
 MAIL_MAILER=smtp
+
 MAIL_HOST=smtp.mailtrap.io
+
 MAIL_PORT=2525
+
 MAIL_USERNAME=your_username
+
 MAIL_PASSWORD=your_password
+
 MAIL_ENCRYPTION=tls
 
 #### step 3 : Custom forwarding mail address
