@@ -1,6 +1,6 @@
 [![issues](https://img.shields.io/github/issues/devkartic/c3mail?style=flat-square)](https://github.com/devkartic/c3mail/issues)
-[![forks](https://img.shields.io/github/forks/devkartic/c3mail=flat-square)](https://github.com/devkartic/c3mail/network/members)
-[![stars](https://img.shields.io/github/stars/devkartic/c3mail?style=flat-square)](https://github.com/devkartic/c3mail/stargazers)
+[![forks](https://img.shields.io/github/forks/devkartic/c3mail?style=flat-square)](https://github.com/devkartic/c3mail/network/members)
+[![stargazers](https://img.shields.io/github/stars/devkartic/c3mail?style=flat-square)](https://github.com/devkartic/c3mail/stargazers)
 [![license](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdevkartic%2Fc3mail)](https://twitter.com/GharamiKartic)
 
 # c3mail package in laravel.
